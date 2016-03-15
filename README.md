@@ -2,9 +2,9 @@
 
 ## Get Help in Real Time
 
-When you Ask a Question on Learn, you’re reaching out, in real-time, to the entire Learn community—including other Learners like you.
+When you Ask a Question on Learn, you’re reaching out, in real-time, to your fellow CodeU Learners. 
 
-We think it’s so cool, we want you to try it now! Go ahead, and hit the Ask a Question button in the upper-right of your screen. Typically you’d be asking about a problem you’re having with your current lesson, but for this test, feel free to ask anything you want. Maybe something like “Can anyone Learn to code?” or “What is the meaning of life” or “Am I holding it right?”
+We think it’s so cool that we want you to try it now! Go ahead, and hit the Ask a Question button in the upper-right of your screen. Typically you’d be asking about a problem you’re having with your current lesson, but for this test, feel free to ask anything you want. Maybe something like “Can anyone Learn to code?” or “What is the meaning of life” or “Am I holding it right?”
 
 Go on, we’ll wait for you =)
 
@@ -12,14 +12,16 @@ Go on, we’ll wait for you =)
 
 ## No Really, Ask a Question!
 
-We mean it—we want to you try the feature out. So go ahead, and ask something, anything, right now. With any luck, someone will jump in almost immediately to help. Trust us, it’ll be fun.
+You may not get a response right away, but with any luck, one of your fellow Learners will see your question and either give you an answer or start a conversation with you. 
+
+Likewise, if you see a question that's been asked, dive in and respond!
 
 
 ## How it Works
 
 Now that you have a sense for what it feels like to ask a question, it’s worth taking a moment to understand what’s going on here.
 
-When you ask a question, it’s always in the context of the lesson you’re currently looking at. Everyone that is currently working on this track who has completed this lesson will be notified. The whole idea is that Learn is a supportive community where everyone is helping each other learn to code.
+When you ask a question, it’s always in the context of the lesson you’re currently looking at. Everyone that is currently working on this track who has completed this lesson will be notified. The whole idea is that Learn is a supportive community where everyone is helping each other code.
 
 ## When to use it?
 
